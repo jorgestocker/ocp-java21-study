@@ -153,12 +153,6 @@ If you can’t confidently predict behavior:
 
 ---
 
-## 📌 Author
-
-Jorge Stocker
-GitHub: https://github.com/jhstocker
-
----
 
 ## 🧩 Final Note
 
