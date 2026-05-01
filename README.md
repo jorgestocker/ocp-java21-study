@@ -134,17 +134,6 @@ If you can’t confidently predict behavior:
 
 ---
 
-## 📈 Progress
-
-* [x] Day 1 - Basics
-* [x] Day 2 - Operators
-* [x] Day 3 - Control Flow
-* [x] Day 4 - Methods
-* [ ] Day 5 - OOP
-* [ ] Day 6+ - Advanced topics
-
----
-
 ## 🚀 Next Steps
 
 * Add more edge cases per topic
