@@ -1,4 +1,4 @@
-package com.jhstocker.ocp.chapter6_modern.records;
+package com.jhstocker.ocp.chapter6_interfaces_records_sealed.records;
 
 public class RecordExample {
 

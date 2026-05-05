@@ -1,4 +1,4 @@
-package com.jhstocker.ocp.chapter6_modern.interfaces;
+package com.jhstocker.ocp.chapter6_interfaces_records_sealed.interfaces;
 
 public interface Animal {
 
